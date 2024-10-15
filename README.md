@@ -48,5 +48,3 @@ This case study aims to identify patterns which indicate if a client has difficu
 
 
 
-
-
